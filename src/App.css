@@ -1,0 +1,20 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+body{
+  background-color: rgb(248, 236, 220);
+  font-family: Vazir;
+}
+.title h2 {
+  text-align: center;
+  font-size: 45px;
+  font-weight: bolder;
+  margin: 40px auto 20px auto;
+}
+.underLine{
+  border-bottom: 2px solid #030303;
+  color: #4199b4;
+  width: 300px;
+  margin: 0 auto 20px auto;
+}
